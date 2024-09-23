@@ -1,12 +1,29 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # NewsSphere
->>>>>>> cdab3e878b287024b4dac1093a8c2e3985d14a8d
+
+![Project Screenshot](path/to/screenshot.png)  <!-- Replace with the actual path to your screenshot -->
+
+## Overview
+
+NewsSphere is a responsive news website built with React and Tailwind CSS, allowing users to explore the latest news across various categories, including:
+
+- Technology
+- Business
+- Health
+- Sports
+- Entertainment
+
+## Features
+
+- **Latest News**: Get real-time updates on the latest news articles.
+- **Category Selection**: Users can filter news by category.
+- **Responsive Design**: The website is optimized for all devices.
+  
+ ## This project fetches real-time news data from the [News API](https://newsapi.org/).
+
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **News API**: A service to fetch news articles.
+
