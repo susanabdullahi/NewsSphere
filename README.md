@@ -1,7 +1,5 @@
 # NewsSphere
 
-![Project Screenshot](path/to/screenshot.png)  <!-- Replace with the actual path to your screenshot -->
-
 ## Overview
 
 NewsSphere is a responsive news website built with React and Tailwind CSS, allowing users to explore the latest news across various categories, including:
